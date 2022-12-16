@@ -41,4 +41,6 @@ int main(){
     } while (ostriches != 0);
 
     pen.report();
+
+    return 0;
 }
