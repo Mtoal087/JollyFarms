@@ -1,0 +1,120 @@
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw4-in1.txt == @@@@@@@@@@@@@@@
+
+
+*** Jolly Farms Self Pay Ostrich Pen ***
+
+The current rate is $0.25 per ostrich per hour.
+How many ostriches? How much time (hours)? 
+Ready to check out (y/n)? Ready to check out (y/n)? Ready to check out (y/n)? 1 ostrich(es) for 10 hour(s) : Amount Due: $2.70
+
+*** Jolly Farms Self Pay Ostrich Pen ***
+
+The current rate is $1.00 per ostrich per hour.
+How many ostriches? How much time (hours)? 
+Ready to check out (y/n)? 10 ostrich(es) for 10 hour(s) : Amount Due: $108.00
+
+*** Jolly Farms Self Pay Ostrich Pen ***
+
+The current rate is $1.75 per ostrich per hour.
+How many ostriches? 
+REPORT:
+Customers Served = 2
+Total Sales = $102.50
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw4-in2.txt == @@@@@@@@@@@@@@@
+
+
+*** Jolly Farms Self Pay Ostrich Pen ***
+
+The current rate is $0.25 per ostrich per hour.
+How many ostriches? How much time (hours)? 
+Ready to check out (y/n)? Ready to check out (y/n)? Ready to check out (y/n)? Ready to check out (y/n)? Ready to check out (y/n)? 12 ostrich(es) for 3 hour(s) : Amount Due: $9.72
+
+*** Jolly Farms Self Pay Ostrich Pen ***
+
+The current rate is $1.00 per ostrich per hour.
+How many ostriches? How much time (hours)? 
+Ready to check out (y/n)? 12 ostrich(es) for 3 hour(s) : Amount Due: $38.88
+
+*** Jolly Farms Self Pay Ostrich Pen ***
+
+The current rate is $1.75 per ostrich per hour.
+How many ostriches? How much time (hours)? 
+Ready to check out (y/n)? 12 ostrich(es) for 3 hour(s) : Amount Due: $68.04
+
+*** Jolly Farms Self Pay Ostrich Pen ***
+
+The current rate is $2.50 per ostrich per hour.
+How many ostriches? 
+REPORT:
+Customers Served = 3
+Total Sales = $108.00
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw4-in3.txt == @@@@@@@@@@@@@@@
+
+
+*** Jolly Farms Self Pay Ostrich Pen ***
+
+The current rate is $0.25 per ostrich per hour.
+How many ostriches? How much time (hours)? 
+Ready to check out (y/n)? 1 ostrich(es) for 100 hour(s) : Amount Due: $27.00
+
+*** Jolly Farms Self Pay Ostrich Pen ***
+
+The current rate is $1.00 per ostrich per hour.
+How many ostriches? How much time (hours)? 
+Ready to check out (y/n)? 1 ostrich(es) for 1 hour(s) : Amount Due: $1.08
+
+*** Jolly Farms Self Pay Ostrich Pen ***
+
+The current rate is $1.75 per ostrich per hour.
+How many ostriches? 
+REPORT:
+Customers Served = 2
+Total Sales = $26.00
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw4-in4.txt == @@@@@@@@@@@@@@@
+
+
+*** Jolly Farms Self Pay Ostrich Pen ***
+
+The current rate is $0.25 per ostrich per hour.
+How many ostriches? How much time (hours)? 
+Ready to check out (y/n)? 100 ostrich(es) for 100 hour(s) : Amount Due: $2700.00
+
+*** Jolly Farms Self Pay Ostrich Pen ***
+
+The current rate is $1.00 per ostrich per hour.
+How many ostriches? How much time (hours)? 
+Ready to check out (y/n)? 123 ostrich(es) for 24 hour(s) : Amount Due: $3188.16
+
+*** Jolly Farms Self Pay Ostrich Pen ***
+
+The current rate is $1.75 per ostrich per hour.
+How many ostriches? 
+REPORT:
+Customers Served = 2
+Total Sales = $5452.00
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw4-in5.txt == @@@@@@@@@@@@@@@
+
+
+*** Jolly Farms Self Pay Ostrich Pen ***
+
+The current rate is $0.25 per ostrich per hour.
+How many ostriches? How much time (hours)? 
+Ready to check out (y/n)? Ready to check out (y/n)? Ready to check out (y/n)? 9999 ostrich(es) for 10 hour(s) : Amount Due: $26997.30
+
+*** Jolly Farms Self Pay Ostrich Pen ***
+
+The current rate is $1.00 per ostrich per hour.
+How many ostriches? 
+REPORT:
+Customers Served = 1
+Total Sales = $24997.50
